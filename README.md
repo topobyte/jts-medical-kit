@@ -1,7 +1,7 @@
 # About
 
 This Java project contains utilities repairing broken or invalid
-[JSI](https://github.com/topobyte/jsi) geometries.
+[JTS](https://github.com/dr-jts/jts) geometries.
 
 # License
 
