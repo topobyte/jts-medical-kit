@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <name>JTS Medical Kit</name>
+  <description>Utilities for repairing broken / invalid geometries</description>
+  <url>https://github.com/topobyte/jts-medical-kit</url>
+</project>
