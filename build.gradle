@@ -18,12 +18,15 @@ repositories {
     maven {
         url 'http://mvn.topobyte.de'
     }
+    maven {
+        url 'http://mvn.slimjars.com'
+    }
     mavenCentral()
 }
 
 dependencies {
-    compile 'de.topobyte:jsi:1.1.1'
-    compile 'de.topobyte:jsi-and-jts:0.0.3'
+    compile 'de.topobyte:jsi:1.2.0'
+    compile 'de.topobyte:jsi-and-jts:0.1.0'
     compile 'com.vividsolutions:jts:1.13'
 }
 
