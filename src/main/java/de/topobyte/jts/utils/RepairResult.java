@@ -20,7 +20,7 @@ package de.topobyte.jts.utils;
 import java.util.List;
 import java.util.Set;
 
-import com.vividsolutions.jts.geom.LineSegment;
+import org.locationtech.jts.geom.LineSegment;
 
 /**
  * @author Sebastian Kuerten (sebastian@topobyte.de)

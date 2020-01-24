@@ -17,7 +17,7 @@
 
 package de.topobyte.jts.utils;
 
-import com.vividsolutions.jts.geom.LineSegment;
+import org.locationtech.jts.geom.LineSegment;
 
 /**
  * @author Sebastian Kuerten (sebastian@topobyte.de)

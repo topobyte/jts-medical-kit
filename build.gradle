@@ -26,8 +26,7 @@ repositories {
 
 dependencies {
     compile 'de.topobyte:jsi:1.2.0'
-    compile 'de.topobyte:jsi-and-jts:0.1.0'
-    compile 'com.vividsolutions:jts:1.13'
+    compile 'de.topobyte:jsi-and-jts:0.2.0'
 }
 
 task sourcesJar(type: Jar, dependsOn: classes) {
