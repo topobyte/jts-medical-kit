@@ -29,7 +29,7 @@ targetCompatibility = 1.8
 
 dependencies {
     compile 'de.topobyte:jsi:1.2.0'
-    compile 'de.topobyte:jsi-and-jts:0.2.1'
+    compile 'de.topobyte:jsi-and-jts:0.3.0'
 }
 
 task sourcesJar(type: Jar, dependsOn: classes) {
